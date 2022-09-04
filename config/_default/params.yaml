@@ -9,7 +9,7 @@ appearance:
   theme_day: minimal
   theme_night: minimal
   font: minimal
-  font_size: L
+  font_size: XL
 
 # SEO
 
@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo blog theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Archive for personal projects, posts, work experience etc.'
+    twitter: 'Awon24'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -41,9 +41,9 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: 'Muhammad Awon © {year}'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
@@ -60,10 +60,11 @@ features:
   syntax_highlighter:
     enable: true
     extra_languages:
-      - r
+      - python
+      - sql
       - latex
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
@@ -97,4 +98,4 @@ extensions:
     branch: main
     local_backend: false
   academicons:
-    enable: false
+    enable: true
