@@ -18,6 +18,8 @@ author: admin
 #  css_class: fullscreen
 ---
 
+***Disclaimer: The website is a work in progress, so all the content on the website is dummy at the moment.***
+
 👋 Hi, there! I'm **Alice**, a machine learning researcher at Netflix.
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
