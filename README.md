@@ -1,0 +1,2 @@
+- [Theme repository](https://github.com/wowchemy/starter-hugo-portfolio-theme)
+- [Theme documentation](https://wowchemy.com/docs/getting-started/)
